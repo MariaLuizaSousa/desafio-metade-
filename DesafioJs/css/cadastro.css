@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+fieldset{
+    text-align: center;
+}
+
+legend{
+    padding: 15px;
+}
+h5{
+    text-align: center;
+    padding: 15px;
+}
